@@ -18,3 +18,10 @@ This repository saves all the things that i've learned in college about java als
 3. If .. Else Nested
 4. Switch Case
 5. Majemuk Condition
+
+-- Chapter 3
+1. For Loop
+2. Break Statement
+3. Counter Variable
+4. While loop
+5. Do While loop
