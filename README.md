@@ -11,3 +11,10 @@ This repository saves all the things that i've learned in college about java als
     * Variable → Declaration, Initialize
     * Process on java program
     * Input statement
+
+-- Chapter 2
+1. If Statement
+2. If .. Else Statement
+3. If .. Else Nested
+4. Switch Case
+5. Majemuk Condition
