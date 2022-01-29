@@ -30,3 +30,11 @@ This repository saves all the things that i've learned in college about java als
 1. Function in Java
 2. Return Function
 3. Function Recursive
+
+-- Chapter 5
+1. Array Data Type
+2. Array multidimension
+
+-- Chapter 6
+1. Read File Operation
+2. Write File Operation
