@@ -26,7 +26,7 @@ This repository saves all the things that i've learned in college about java als
 4. While loop
 5. Do While loop
 
--- Chapter 3
+-- Chapter 4
 1. Function in Java
 2. Return Function
 3. Function Recursive
