@@ -18,9 +18,9 @@ public class Main {
 
         if( IMT > 30 )
             System.out.println("Obesity");
-        else if ( IMT > 25 && IMT < 30)
+        else if ( IMT > 25 && IMT <= 30)
             System.out.println("Fat");
-        else if ( IMT > 18.5 && IMT < 25 )
+        else if ( IMT > 18.5 && IMT <= 25 )
             System.out.println("Normal");
         else
             System.out.println("Boney");
